@@ -1,0 +1,32 @@
+names:
+- person
+- bicycle
+- car
+- motorcycle
+- bus
+- train
+- truck
+- boat
+- traffic light
+- fire hydrant
+- stop sign
+- parking meter
+- bench
+- bird
+- cat
+- dog
+- horse
+- backpack
+- umbrella
+- handbag
+- tie
+- suitcase
+- skateboard
+- cell phone
+nc: 24
+test: E:\all e drive\AIU COMPUTER SCIENCE BACLERIOS\AIU COMPUTER SCIENCE SIXTH SEMESTER
+  SPRING (24-25)\DEPI\Final Project\CocoDataSet\coco_preprocess\outputs\filtered_dataset\val\images
+train: E:\all e drive\AIU COMPUTER SCIENCE BACLERIOS\AIU COMPUTER SCIENCE SIXTH SEMESTER
+  SPRING (24-25)\DEPI\Final Project\CocoDataSet\coco_preprocess\outputs\filtered_dataset\train\images
+val: E:\all e drive\AIU COMPUTER SCIENCE BACLERIOS\AIU COMPUTER SCIENCE SIXTH SEMESTER
+  SPRING (24-25)\DEPI\Final Project\CocoDataSet\coco_preprocess\outputs\filtered_dataset\val\images
