@@ -24,18 +24,18 @@ venv/
 # ==============================================
 #data/
 #outputs/
-*.zip
-*.tar
-*.tar.gz
-*.h5
-*.pt
-*.pth
-*.weights
-*.onnx
-*.mp4
-*.avi
-*.jpg
-*.png
+#*.zip
+#*.tar
+#*.tar.gz
+#*.h5
+#*.pt
+#*.pth
+#*.weights
+#*.onnx
+#*.mp4
+#*.avi
+#*.jpg
+#*.png
 
 # ==============================================
 # ⚙️ IDE / VSCode settings
