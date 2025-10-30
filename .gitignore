@@ -52,5 +52,8 @@ experiments/
 # ====================================================
 # Mile Stone One outputs
 # ====================================================
-Milestone_1_Data_Preprocessing/outputs/filtered_dataset
+Milestone_1_Data_Preprocessing/outputs/*
+
+# But keep the results folder
+!Milestone_1_Data_Preprocessing/outputs/exploration/
  
