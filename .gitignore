@@ -22,8 +22,8 @@ venv/
 # ==============================================
 # 📦 Dataset and large files
 # ==============================================
-data/
-outputs/
+#data/
+#outputs/
 *.zip
 *.tar
 *.tar.gz
@@ -49,11 +49,3 @@ outputs/
 notebooks/
 experiments/
 
-# ====================================================
-# Mile Stone One outputs
-# ====================================================
-Milestone_1_Data_Preprocessing/outputs/*
-
-# But keep the results folder
-!Milestone_1_Data_Preprocessing/outputs/exploration/
- 

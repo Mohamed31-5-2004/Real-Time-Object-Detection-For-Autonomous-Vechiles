@@ -1,0 +1,2 @@
+split,num_images,num_annotations_total,num_annotations_selected,image_width_mean,image_height_mean,avg_objects_selected_per_image
+val,5000,36781,19684,573.7548,483.543,3.9368
